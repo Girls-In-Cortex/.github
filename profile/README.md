@@ -1,6 +1,8 @@
-<img width="1280" height="368" alt="image" src="https://github.com/user-attachments/assets/8c7438ab-0086-48a5-8864-a62f69e42cee" />
+<img width="1024" height="280" alt="image" src="https://github.com/user-attachments/assets/cae7e0e2-6fab-4023-a738-6c8e37761957" />
+
+
 <p align="center">
-  <h1 align="center">🐰 Girls In Cortex! 🐇</h1>
+  <h1 align="center">🐱 Girls In Cortex! 🐈</h1>
 </p>
 
 O Girls In Cortex é um squad feminino multidisciplinar de tecnologia focado no ciclo completo de desenvolvimento de soluções digitais e inovação. Nossa equipe é composta por profissionais integrados em diversas frentes — incluindo Produto, UX/UI, Mentoria, QA, Infraestrutura, Back-End e Front-End. Trabalhamos de forma colaborativa e ágil para desenhar, construir e escalar produtos de alto impacto, unindo excelência técnica e foco na experiência do usuário, com foco em fortalecer a presença feminina no mercado tech.
@@ -44,7 +46,7 @@ href="https://github.com/Gasparini-11"><img src="https://github.com/gasparini-11
 </td>
         </td>
       <td align="center" width="120px">
-        <img width="400" height="400" alt="326713516" src="https://github.com/user-attachments/assets/5fed92af-8130-44cb-a49a-a5b36f7b856d" />
+        <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9d5013cb-7a32-434d-b52a-cd0a90db497c" />
     </tr>
       </td>
     </tr>
