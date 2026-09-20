@@ -42,7 +42,7 @@ href="https://github.com/Gasparini-11"><img src="https://github.com/gasparini-11
         <a href="https://github.com/paulahcarvalho"><img src="https://github.com/paulahcarvalho.png" width="70px" style="border-radius: 50%;" alt="Paula Carvalho"/><br><sub><b>Paula Carvalho</b></sub><br><sub>PO/PM</sub><br><sub>Data Analyst</sub></a><br><a  href="https://linkedin.com/in/paula-carvalho-390147108/"><img src="https://shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" height="15px"/></a>
       </td>
       <td align="center" width="120px">
-        <a href="https://github.com/carolseveroo"><img src="https://github.com/carolseveroo.png" width="70px" style="border-radius: 50%;" alt="Carol Severo"/><br><sub><b>Carolina Severo</b></sub><br><sub>Mentor</sub><br><sub>Executive Manager</sub></ href="https://www.linkedin.com/in/eucarolsevero"><img src="https://shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" height="15px"/></a>
+        <a href="https://github.com/carolseveroo"><img src="https://github.com/carolseveroo.png" width="70px" style="border-radius: 50%;" alt="Carol Severo"/><br><sub><b>Carolina Severo</b></sub><br><sub>Mentor</sub><br><sub>Executive Manager</sub></a><br><a  href="https://linkedin.com/in/eucarolsevero/"><img src="https://shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" height="15px"/></a>
 </td>
         </td>
       <td align="center" width="120px">
