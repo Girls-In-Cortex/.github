@@ -37,7 +37,7 @@ href="https://github.com/Gasparini-11"><img src="https://github.com/gasparini-11
         <a href="https://github.com/kamathias89"><img src="https://github.com/kamathias89.png" width="70px" style="border-radius: 50%;" alt="Nome"/><br><sub><b>Karina Mathias</b></sub><br><sub>QA</sub></a><br><a href="https://www.linkedin.com/in/kamathias/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" height="15px"/></a>
       </td>
       <td align="center" width="120px">
-        <a href="https://github.com/paulahcarvalho"><img src="https://github.com/paulahcarvalho.png" width="70px" style="border-radius: 50%;" alt="Paula Carvalho"/><br><sub><b>Paula Carvalho/b></sub><br><sub>PO/PM</sub><br><sub>Data Analyst</sub></a><br><a  href="https://linkedin.com/in/paula-carvalho-390147108/"><img src="https://shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" height="15px"/></a>
+        <a href="https://github.com/paulahcarvalho"><img src="https://github.com/paulahcarvalho.png" width="70px" style="border-radius: 50%;" alt="Paula Carvalho"/><br><sub><b>Paula Carvalho</b></sub><br><sub>PO/PM</sub><br><sub>Data Analyst</sub></a><br><a  href="https://linkedin.com/in/paula-carvalho-390147108/"><img src="https://shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" height="15px"/></a>
       </td>
       <td align="center" width="120px">
         <a href="https://github.com/eucarolsevero"><img src="https://github.com/eucarolsevero.png" width="70px" style="border-radius: 50%;" alt="Carol Severo"/><br><sub><b>Carolina Severo</b></sub><br><sub>Tech Leader</sub><br><sub>Executive Manager</sub></ href="https://www.linkedin.com/in/eucarolsevero"><img src="https://shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" height="15px"/></a>
