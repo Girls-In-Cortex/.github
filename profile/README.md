@@ -5,6 +5,10 @@
   <h1 align="center">🐱 Girls In Cortex! 🐈</h1>
 </p>
 
+<p align="center">
+  <a href="https://girls-in-cortex.github.io/"><b>Leia mais sobre nós aqui!</b></a>
+</p>
+
 O Girls In Cortex é um squad feminino multidisciplinar de tecnologia focado no ciclo completo de desenvolvimento de soluções digitais e inovação. Nossa equipe é composta por profissionais integrados em diversas frentes — incluindo Produto, UX/UI, Mentoria, QA, Infraestrutura, Back-End e Front-End. Trabalhamos de forma colaborativa e ágil para desenhar, construir e escalar produtos de alto impacto, unindo excelência técnica e foco na experiência do usuário, com foco em fortalecer a presença feminina no mercado tech.
 
 ---
